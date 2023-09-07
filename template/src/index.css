@@ -1,0 +1,11 @@
+.icon {
+  width: 32px;
+}
+
+.Widget-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 600;
+  font-size: larger;
+}

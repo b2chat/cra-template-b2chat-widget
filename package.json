@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-b2chat-widget",
+  "version": "1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for B2Chat widgets.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b2chat/cra-template-b2chat-widget.git",
+    "directory": "packages/cra-template-b2chat-widget"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/b2chat/console-widget-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
