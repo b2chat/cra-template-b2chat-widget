@@ -1,4 +1,4 @@
-import { useB2ChatStore } from "@b2chat/chat-center-widget-sdk/dist/react";
+import { useB2ChatStore } from "@b2chatorg/chat-center-widget-sdk/dist/react";
 
 function App() {
   const { state } = useB2ChatStore({});
