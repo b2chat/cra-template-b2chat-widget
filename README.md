@@ -13,7 +13,7 @@ Use this template within your project to create a **Widget** for **B2Chat** cons
 Paste this command and change `my-widget` with your preferred project name
 
 ```
-npx create-react-app my-widget --template cra-template-b2chat-widget
+npx create-react-app my-widget --template @b2chatorg/cra-template-b2chat-widget
 ```
 
 and install it.
